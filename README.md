@@ -4,10 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=%3CSystems+Engineering+Student%2F%3E;%3CAspiring+Full+Stack+Developer%2F%3E;%3CTech+Enthusiast%2F%3E;%3CPassionate+about+Learning%2F%3E;%3CAlways+Improving%2F%3E&background=00000000"></a>
 </p>
 
-
 <br>
 	
-## <b> About Me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> About Me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><br>
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
