@@ -12,7 +12,7 @@
     <br>
     <p>
         <strong>
-            Hello, I'm <i>David Pineda</i>, a passionate <i>Computer Science</i> student specializing in software development. I am currently working on <i>JoXBar Studios</i>, a project where I create attractive and functional landing pages for various clients. I am in the process of learning <i>Java</i> and other web development technologies, which allows me to improve my skills as a freelancer and provide innovative solutions to my clients. Additionally, I am a huge cat lover, who always inspires my creativity. 🐱
+            Hello, I'm <i>David Pineda</i>, a passionate <i>Systems Engineering</i> student specializing in software development. I am currently working on <i>JoXBar Studios</i>, a project where I create attractive and functional landing pages for various clients. I am in the process of learning <i>Java</i> and other web development technologies, which allows me to improve my skills as a freelancer and provide innovative solutions to my clients. Additionally, I am a huge cat lover, who always inspires my creativity. 🐱
         </strong>
     </p>
     <ul>
