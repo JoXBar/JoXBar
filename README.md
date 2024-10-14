@@ -4,7 +4,6 @@
 Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
 
 -------------------
-
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <div align="center">
