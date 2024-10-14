@@ -76,3 +76,13 @@
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<br>
+<p align="center">
+   <h3 style="color: #00FFFF;">
+      <i>“In the world of programming, every line of code is a step towards creating something extraordinary; the only limit is your imagination.”</i>
+   </h3>
+</p>
+
+
