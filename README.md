@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=%3CSystems+Engineering+Student%2F%3E;%3CAspiring+Full+Stack+Developer%2F%3E;%3CTech+Enthusiast%2F%3E;%3CPassionate+about+Learning%2F%3E;%3CAlways+Improving%2F%3E&background=00000000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=%3CSystems+Engineering+Student%2F%3E;%3CAspiring+Full+Stack+Developer%2F%3E;%3CTech+Enthusiast%2F%3E;%3CPassionate+about+Learning%2F%3E;%3CAlways+Improving%2F%3E&background=00000000"></a>
 </p>
 
 <br>
@@ -12,17 +12,17 @@
     <br>
     <p>
         <strong>
-            Hola, soy David Pineda, estudiante de Ingeniería en Sistemas. Estoy trabajando en un proyecto de desarrollo de landing pages llamado JoXBar Studios. Actualmente, estoy aprendiendo Java y otros lenguajes de programación. También soy freelancer y disfruto viajar y pasar tiempo con mis gatos.
+            Hola, soy <i>David Pineda</i>, un apasionado estudiante de <i>Ingeniería en Sistemas</i> que se especializa en el desarrollo de software. Actualmente estoy trabajando en <i>JoXBar Studios</i>, un proyecto donde creo landing pages atractivas y funcionales para diversos clientes. Estoy en proceso de aprender <i>Java</i> y otras tecnologías de desarrollo web, lo que me permite mejorar mis habilidades como freelancer y brindarle a mis clientes soluciones innovadoras. Además, soy un gran amante de los gatos, que siempre me inspiran en mi creatividad. 🐱
         </strong>
     </p>
     <ul>
-        <li>🌱 <b>Actualmente estoy aprendiendo</b>: Java y desarrollo web.</li>
-        <li>🎯 <b>Proyecto en curso</b>: <a href="https://www.joxbarstudios.com">JoXBar Studios</a>.</li>
-        <li>💬 <b>Pregúntame sobre</b>: Desarrollo web y tecnología.</li>
-        <li>📫 <b>Cómo contactarme</b>: Conéctate conmigo a través de mis redes sociales.</li>
-        <li>😄 <b>Dato curioso</b>: Me encantan los gatos (🐱) y viajar (🌍).</li>
+        <li>🌱 <b>Actualmente estoy aprendiendo</b>: <i>Java</i> y desarrollo web.</li>
+        <li>🎯 <b>Mi proyecto actual</b>: <i>JoXBar Studios</i>, donde me enfoco en el diseño y desarrollo de landing pages para diferentes proyectos.</li>
+        <li>📁 <b>Mi portafolio</b>: Puedes explorar mis proyectos y habilidades en mi [currículum](https://link-a-tu-curriculum.com).</li>
+        <li>📫 <b>Cómo contactarme</b>: Conéctate conmigo a través de mis redes sociales y descubre más sobre mis proyectos.</li>
     </ul>
 </div>
+
 
 
 
