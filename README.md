@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+
+## About
+Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+
+-------------------
+
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <div align="center">
