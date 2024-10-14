@@ -12,21 +12,18 @@
     <br>
     <p>
         <strong>
-            Hola, soy <i>David Pineda</i>, un apasionado estudiante de <i>Ingeniería en Sistemas</i> que se especializa en el desarrollo de software. Actualmente estoy trabajando en <i>JoXBar Studios</i>, un proyecto donde creo landing pages atractivas y funcionales para diversos clientes. Estoy en proceso de aprender <i>Java</i> y otras tecnologías de desarrollo web, lo que me permite mejorar mis habilidades como freelancer y brindarle a mis clientes soluciones innovadoras. Además, soy un gran amante de los gatos, que siempre me inspiran en mi creatividad. 🐱
+            Hello, I'm <i>David Pineda</i>, a passionate <i>Computer Science</i> student specializing in software development. I am currently working on <i>JoXBar Studios</i>, a project where I create attractive and functional landing pages for various clients. I am in the process of learning <i>Java</i> and other web development technologies, which allows me to improve my skills as a freelancer and provide innovative solutions to my clients. Additionally, I am a huge cat lover, who always inspires my creativity. 🐱
         </strong>
     </p>
     <ul>
-        <li>🌱 <b>Actualmente estoy aprendiendo</b>: <i>Java</i> y desarrollo web.</li>
-        <li>🎯 <b>Mi proyecto actual</b>: <i>JoXBar Studios</i>, donde me enfoco en el diseño y desarrollo de landing pages para diferentes proyectos.</li>
-        <li>📁 <b>Mi portafolio</b>: Puedes explorar mis proyectos y habilidades en mi <a href="https://link-a-tu-curriculum.com" target="_blank"><b>portafolio</b></a>.</li>
-        <li>📫 <b>Cómo contactarme</b>: Conéctate conmigo a través de mis redes sociales y descubre más sobre mis proyectos.</li>
+        <li>🌱 <b>Currently learning</b>: <i>Java</i> and web development.</li>
+        <li>🎯 <b>My current project</b>: <i>JoXBar Studios</i>, where I focus on designing and developing landing pages for different projects.</li>
+        <li>📁 <b>My portfolio</b>: You can explore my projects and skills in my <a href="https://link-a-tu-curriculum.com" target="_blank"><b>portfolio</b></a>.</li>
+        <li>📫 <b>How to contact me</b>: Connect with me through my social media and discover more about my projects.</li>
     </ul>
 </div>
 
-
-
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
