@@ -26,9 +26,6 @@
 <br>
 
 <p align="center">
-
-<hr>
-<p align="center">
    <i>Do you have a project in mind? Contact me on my social media to discuss how we can work together!</i>
    <br>
 <br>							
