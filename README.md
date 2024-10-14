@@ -12,23 +12,18 @@
     <br>
     <p>
         <strong>
-            Estudiante de Ingeniería en Sistemas, Aspirante a Desarrollador Full Stack, Resolutor de Problemas, Freelancer, y Entusiasta del Open Source.<br><br>
-            Me especializo en tecnologías web y tengo experiencia en programación en Python y JavaScript. Buen manejo de algoritmos, estructuras de datos, sistemas de bases de datos, programación orientada a objetos, patrones de diseño y habilidades para resolver problemas.<br><br>
-            Soy apasionado por aprender sobre desarrollo web, tecnologías de Back-End, Blockchain, Linux, virtualización, computación en la nube y DevOps.<br><br>
-            Ingeniero detallista, responsable y comprometido, con un enfoque en la entrega a tiempo y de alta calidad. Aprendiz rápido, auto-motivado y sociable.
+            Hola, soy David Pineda, estudiante de Ingeniería en Sistemas. Estoy trabajando en un proyecto de desarrollo de landing pages llamado JoXBar Studios. Actualmente, estoy aprendiendo Java y otros lenguajes de programación. También soy freelancer y disfruto viajar y pasar tiempo con mis gatos.
         </strong>
     </p>
     <ul>
-        <li>🌱 <b>Actualmente estoy aprendiendo</b>: Ingeniería en Sistemas y desarrollo web.</li>
-        <li>🎯 <b>Enfocándome en</b>: <a href="https://www.yourlink.com">Resolución de Problemas</a>, ⭐️ estrella los proyectos si te gustan 🤩.</li>
-        <li>🤔 <b>Estoy abierto a</b>: Nuevas oportunidades laborales, <a href="https://tu-curriculum.com">LINK A MI CURRÍCULUM</a>.</li>
-        <li>💬 <b>Pregúntame sobre</b>: <a href="https://github.com/tu-usuario/tu-repo/issues">Aquí</a>.</li>
-        <li>📫 <b>Cómo contactarme</b>: Conéctate conmigo a través de los enlaces anteriores 👆, además de seguirme aquí.</li>
-        <li>😄 <b>Dato curioso</b>: Me encantan los Coches (🚗), la Programación (💻), Viajar (🌍) y la Fotografía (📷).</li>
-        <li>👨‍💻 <b>Contrátame para trabajos de Desarrollo Full Stack</b>: <a href="https://www.upwork.com/freelancers/tu-enlace">Link a mi Especialización en Desarrollo Full Stack en UpWork</a>.</li>
-        <li>👨‍💻 <b>Contrátame para trabajos de Desarrollo Back-End</b>: <a href="https://www.upwork.com/freelancers/tu-enlace">Link a mi Especialización en Desarrollo Back-End en UpWork</a>.</li>
+        <li>🌱 <b>Actualmente estoy aprendiendo</b>: Java y desarrollo web.</li>
+        <li>🎯 <b>Proyecto en curso</b>: <a href="https://www.joxbarstudios.com">JoXBar Studios</a>.</li>
+        <li>💬 <b>Pregúntame sobre</b>: Desarrollo web y tecnología.</li>
+        <li>📫 <b>Cómo contactarme</b>: Conéctate conmigo a través de mis redes sociales.</li>
+        <li>😄 <b>Dato curioso</b>: Me encantan los gatos (🐱) y viajar (🌍).</li>
     </ul>
 </div>
+
 
 
 <br><br>
