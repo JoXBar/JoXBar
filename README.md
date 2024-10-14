@@ -1,17 +1,35 @@
 <h1 align="center">Hi 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=%3CSystems+Engineering+Student%2F%3E;%3CAspiring+Full+Stack+Developer%2F%3E;%3CTech+Enthusiast%2F%3E;%3CPassionate+about+Learning%2F%3E;%3CAlways+Improving%2F%3E&background=00000000"></a>
 </p>
 
 <br>
 	
-## <b> About Me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><br>
+## <b> About Me</b><br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+<div align="left">
+    <br>
+    <p>
+        <strong>
+            Estudiante de Ingeniería en Sistemas, Aspirante a Desarrollador Full Stack, Resolutor de Problemas, Freelancer, y Entusiasta del Open Source.<br><br>
+            Me especializo en tecnologías web y tengo experiencia en programación en Python y JavaScript. Buen manejo de algoritmos, estructuras de datos, sistemas de bases de datos, programación orientada a objetos, patrones de diseño y habilidades para resolver problemas.<br><br>
+            Soy apasionado por aprender sobre desarrollo web, tecnologías de Back-End, Blockchain, Linux, virtualización, computación en la nube y DevOps.<br><br>
+            Ingeniero detallista, responsable y comprometido, con un enfoque en la entrega a tiempo y de alta calidad. Aprendiz rápido, auto-motivado y sociable.
+        </strong>
+    </p>
+    <ul>
+        <li>🌱 <b>Actualmente estoy aprendiendo</b>: Ingeniería en Sistemas y desarrollo web.</li>
+        <li>🎯 <b>Enfocándome en</b>: <a href="https://www.yourlink.com">Resolución de Problemas</a>, ⭐️ estrella los proyectos si te gustan 🤩.</li>
+        <li>🤔 <b>Estoy abierto a</b>: Nuevas oportunidades laborales, <a href="https://tu-curriculum.com">LINK A MI CURRÍCULUM</a>.</li>
+        <li>💬 <b>Pregúntame sobre</b>: <a href="https://github.com/tu-usuario/tu-repo/issues">Aquí</a>.</li>
+        <li>📫 <b>Cómo contactarme</b>: Conéctate conmigo a través de los enlaces anteriores 👆, además de seguirme aquí.</li>
+        <li>😄 <b>Dato curioso</b>: Me encantan los Coches (🚗), la Programación (💻), Viajar (🌍) y la Fotografía (📷).</li>
+        <li>👨‍💻 <b>Contrátame para trabajos de Desarrollo Full Stack</b>: <a href="https://www.upwork.com/freelancers/tu-enlace">Link a mi Especialización en Desarrollo Full Stack en UpWork</a>.</li>
+        <li>👨‍💻 <b>Contrátame para trabajos de Desarrollo Back-End</b>: <a href="https://www.upwork.com/freelancers/tu-enlace">Link a mi Especialización en Desarrollo Back-End en UpWork</a>.</li>
+    </ul>
+</div>
+
 
 <br><br>
 
