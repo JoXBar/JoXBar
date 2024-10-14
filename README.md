@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=800080&size=25&center=true&vCenter=true&width=600&height=100&lines=%3CSystems+Engineering+Student%2F%3E;%3CAspiring+Full+Stack+Developer%2F%3E;%3CTech+Enthusiast%2F%3E;%3CPassionate+about+Learning%2F%3E;%3CAlways+Improving%2F%3E&background=FFFFFF00"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=800080&size=25&center=true&vCenter=true&width=600&height=100&lines=%3CEstudiante+de+Ingeniería+en+Sistemas%2F%3E;%3CFuturo+Desarrollador+Full+Stack%2F%3E;%3CApasionado+por+la+tecnología%2F%3E;%3CAprendiendo+día+a+día%2F%3E;%3CSiempre+mejorando%2F%3E&background=000000"></a>
 </p>
-
 
 <br>
 	
