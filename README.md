@@ -18,7 +18,7 @@
     <ul>
         <li>🌱 <b>Actualmente estoy aprendiendo</b>: <i>Java</i> y desarrollo web.</li>
         <li>🎯 <b>Mi proyecto actual</b>: <i>JoXBar Studios</i>, donde me enfoco en el diseño y desarrollo de landing pages para diferentes proyectos.</li>
-        <li>📁 <b>Mi portafolio</b>: Puedes explorar mis proyectos y habilidades en mi [currículum](https://link-a-tu-curriculum.com).</li>
+        <li>📁 <b>Mi portafolio</b>: Puedes explorar mis proyectos y habilidades en mi <a href="https://link-a-tu-curriculum.com" target="_blank"><b>portafolio</b></a>.</li>
         <li>📫 <b>Cómo contactarme</b>: Conéctate conmigo a través de mis redes sociales y descubre más sobre mis proyectos.</li>
     </ul>
 </div>
