@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"><Hi 👋, I'm David/><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 <div align="center">
-  <h2> Hi There, Welcome to my Github profile! 
+  <h3 align="center">Connect with me:</h3>
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
   </h2>
   <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
